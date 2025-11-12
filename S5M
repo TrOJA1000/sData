@@ -28,9 +28,9 @@ LSTCAP="sslcapture|packetcapture|tpacketcapture|capture|remote"
 -PrivateTesting-PC36-OPN|(PROTECTED)_NEW_S5M36803DEACF718D92356=30-Dec-2025|
 -PrivateTesting-PC36-OPN|(PROTECTED)_0..0_S5M36803DEACF718D92356=25-Sep-2025|
 =====================================================================
-{'MLG42E4F35469C42AD065952': ('EXPIREDATE', 'Name1', 'Name2', 'AcceSS', 'PaSS')}
-{'5256086CC02FB05E7692AMCL': ('EXPIREDATE', 'Name1', 'Name2', 'AcceSS', 'PaSS')}
-{'MCLC00E3498BA1DC1D3D781B': ('EXPIREDATE', 'Name1', 'Name2', 'AcceSS', 'PaSS')}
-{'M3L52A1B46CA13E1841B0644': ('EXPIREDATE', 'Name1', 'Name2', 'AcceSS', 'PaSS')}
+{'MLG42E4F35469C42AD065952': ('EXPIREDATE', 'Name1', 'Name2', 'PaSS', 'FULL', 'PROTECT', 'EXPIRED', 'BANNED')}
+{'5256086CC02FB05E7692AMCL': ('EXPIREDATE', 'Name1', 'Name2', 'PaSS', 'FULL', 'PROTECT', 'EXPIRED', 'BANNED')}
+{'MCLC00E3498BA1DC1D3D781B': ('EXPIREDATE', 'Name1', 'Name2', 'PaSS', 'FULL', 'PROTECT', 'EXPIRED', 'BANNED')}
+{'M3L52A1B46CA13E1841B0644': ('EXPIREDATE', 'Name1', 'Name2', 'PaSS', 'FULL', 'PROTECT', 'EXPIRED', 'BANNED')}
 {'S53CEB5E5E48E088F62U36': ('30-Dec-2025', 'ℛiᴍi', 'ℛiᴍi', 'PaSS', 'FULL', 'PROTECT', 'EXPIRED', 'BANNED')}
 =====================================================================
