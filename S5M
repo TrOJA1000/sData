@@ -20,8 +20,6 @@ SinghJaswant-PH35|2025-09-03|EXPIRED
 LSTCAP="sslcapture|packetcapture|tpacketcapture|capture|remote"
 |S5MCP="M1/M05_1="|S5MCD="M1/M05_2="|S5MA0="M1/M00_1="|S5MA1="M1/M00_2="|S5MB1="M1/M01_1="|S5MB2="M1/M01_2="|S5MB3="M1/M01_3="|S5MC1="M1/M02_1="|S5MC2="M1/M02_2="|S5MC3="M1/M02_3="|S5MC4="M1/M02_4="|
 =====================================================================
-New-User|{'ID': ('DATE-MONTH-YEAR', 'NANE1', 'NANE2', 'NANE3', 'PACKAGE_STATUS', 'PROTECT_STATUS', 'EXPIRED', 'BANNED')}|
-=====================================================================
-{'MLG42E4F35469C42AD065952': ('EXPIREDATE', 'Name1', 'Name2', 'PaSS', 'FULL', 'PROTECT', '', '')}
-{'S38E5F23E09A2E75806A4D5FD': ('30-Dec-2025', 'ℛiᴍi', 'ℛiᴍi', 'PaSS', 'FULL', 'PROTECT', '', '')}
+{'S38E5F23E09A2E75806A4D5FD': ('31-Dec-2026', 'ℛiᴍi', 'ℛiᴍi', 'PaSS', 'FULL', 'PROTECT', '', '')}
+User|{'DevID': ('DATE-MONTH-YEAR', 'NANE1', 'NANE2', 'PassNANE', 'PACKAGE_STATUS', 'PROTECT_STATUS', 'EXPIRED', 'BANNED')}|
 =====================================================================
